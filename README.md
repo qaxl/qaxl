@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### A C-family & Rust programmer 🇫🇮
+#### A C/++ and Rust programmer 🇫🇮
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qaxl&layout=compact)
