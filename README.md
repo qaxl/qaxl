@@ -1,6 +1,7 @@
 ### Hi there! 👋
 
 I'm a passionate programmer specializing in C/C++ and Rust. 🇫🇮
+
 Currently, I'm working on an exciting voxel game project inspired by Minecraft—[check it out](https://github.com/qaxl/craft)! 🚀
 
 
