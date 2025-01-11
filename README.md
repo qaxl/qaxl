@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there! 👋
 
-#### A C/++ and Rust programmer 🇫🇮
+I'm a passionate programmer specializing in C/C++ and Rust. 🇫🇮
+Currently, I'm working on an exciting voxel game project inspired by Minecraft—[check it out](https://github.com/qaxl/craft)! 🚀
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qaxl&layout=compact)
